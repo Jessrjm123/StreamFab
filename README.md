@@ -1,2 +1,2 @@
-# StreamFan
-https://streamfab.us/
+# StreamFab
+https://streamfab.com/
